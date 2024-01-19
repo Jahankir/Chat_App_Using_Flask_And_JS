@@ -5,7 +5,7 @@
 ```
   Flask : Python Micro Web FrameWork
   Flask-SocketIO : bi-directional communications between the clients and the server
-    HTML, CSS, JS : For Creating FrontEnd
+  HTML, CSS, JS : For Creating FrontEnd
 ```
 
 ## Set up environment for using this repo:
@@ -25,7 +25,7 @@
       $py app.py
 
   Go to http://localhost:5000 with any of browsers and DONE !!
-	    $ open http://localhost:5000
+      $ open http://localhost:5000
 
   To exit press Ctrl+C
 ```
